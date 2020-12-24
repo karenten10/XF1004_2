@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iGqoep86Rv00cdxuPMVyzV5Fh5YH7TD7mgY77B3RCh+Jv6brtPAKgky4ghki6fYSbvc/6IXyvqSJ4l/2jSStzQ==",
+  "dgSpecHash": "mB3nAW34Ri2CwJI0xtF4y8DmMkloBYTPx1a4zHAfQ144iuaBCRgSWropwosyey+gACvZWs/j2UhxQeg+qV/baQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Karen Wu\\source\\repos\\XF1004_2\\XF1004_2\\XF1004_2.Android\\XF1004_2.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Karen Wu\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\prism.unity.forms\\8.0.0.1909\\prism.unity.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Karen Wu\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "C:\\Users\\Karen Wu\\.nuget\\packages\\unity.abstractions\\5.11.6\\unity.abstractions.5.11.6.nupkg.sha512",

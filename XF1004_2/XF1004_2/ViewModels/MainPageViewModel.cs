@@ -8,12 +8,44 @@ using System.Text;
 
 namespace XF1004_2.ViewModels
 {
-    public class MainPageViewModel : ViewModelBase
+    using System.ComponentModel;
+    using Prism.Events;
+    using Prism.Navigation;
+    using Prism.Services;
+    public class MainPageViewModel : INotifyPropertyChanged, INavigationAware
     {
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        private readonly INavigationService navigationService;
+
+        public string keyin { get; set; }
+
+        public string display { get; set; }
+
+        public DelegateCommand btnCommand { get; set; }
+
         public MainPageViewModel(INavigationService navigationService)
-            : base(navigationService)
         {
-            Title = "Main Page";
+            this.navigationService = navigationService;
+            btnCommand = new DelegateCommand(ClickBtn);
         }
+        
+        public void OnNavigatedFrom(INavigationParameters parameters)
+        {
+        }
+
+        public void OnNavigatedTo(INavigationParameters parameters)
+        {
+        }
+
+        public void OnNavigatingTo(INavigationParameters parameters)
+        {
+        }
+
+        public void ClickBtn()
+        {
+            display = $"You are {keyin}.";
+        }
+
     }
 }

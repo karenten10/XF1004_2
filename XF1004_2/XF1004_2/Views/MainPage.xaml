@@ -4,8 +4,12 @@
              x:Class="XF1004_2.Views.MainPage"
              Title="{Binding Title}">
 
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Welcome to Xamarin Forms and Prism!" />
+    <StackLayout HorizontalOptions="Fill" VerticalOptions="CenterAndExpand"
+                 Margin="10,0,10,0">
+        <Label Text="Please enter your name:" Margin="5,0,0,0"/>
+        <Entry Text="{Binding keyin}"></Entry>
+        <Button Text="送出" Command="{Binding btnCommand}"></Button>
+        <Label Text="{Binding display}" HorizontalOptions="Center" FontSize="Large" />
     </StackLayout>
 
 </ContentPage>
