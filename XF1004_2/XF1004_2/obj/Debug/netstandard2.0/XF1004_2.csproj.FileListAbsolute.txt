@@ -1,0 +1,12 @@
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\bin\Debug\netstandard2.0\XF1004_2.deps.json
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\bin\Debug\netstandard2.0\XF1004_2.dll
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\bin\Debug\netstandard2.0\XF1004_2.pdb
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.csprojAssemblyReference.cache
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.AssemblyInfoInputs.cache
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.AssemblyInfo.cs
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.csproj.CoreCompileInputs.cache
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.dll
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.pdb
