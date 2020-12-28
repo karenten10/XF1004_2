@@ -10,6 +10,9 @@
         <Entry Text="{Binding keyin}"></Entry>
         <Button Text="送出" Command="{Binding btnCommand}"></Button>
         <Label Text="{Binding display}" HorizontalOptions="Center" FontSize="Large" />
+
+        <Button Text="下一頁" Command="{Binding nextCommand}"></Button>
+        
     </StackLayout>
 
 </ContentPage>

@@ -11,3 +11,4 @@ C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2
 C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.dll
 C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.pdb
 C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\XF1004_2.csproj.Fody.CopyLocal.cache
+C:\Users\Karen Wu\source\repos\XF1004_2\XF1004_2\XF1004_2\obj\Debug\netstandard2.0\Views\ShowPage.xaml.g.cs

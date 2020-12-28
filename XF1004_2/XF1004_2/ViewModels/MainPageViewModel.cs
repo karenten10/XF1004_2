@@ -24,10 +24,13 @@ namespace XF1004_2.ViewModels
 
         public DelegateCommand btnCommand { get; set; }
 
+        public DelegateCommand nextCommand { get; set; }
+
         public MainPageViewModel(INavigationService navigationService)
         {
             this.navigationService = navigationService;
             btnCommand = new DelegateCommand(ClickBtn);
+            nextCommand = new DelegateCommand(ClickNext);
         }
         
         public void OnNavigatedFrom(INavigationParameters parameters)
@@ -45,6 +48,12 @@ namespace XF1004_2.ViewModels
         public void ClickBtn()
         {
             display = $"You are {keyin}.";
+        }
+
+        public void ClickNext()
+        {
+            // navigationService.NavigateAsync("NavigationPage/ShowPage"); // 這樣title會變成2行
+            navigationService.NavigateAsync("ShowPage");
         }
 
     }
